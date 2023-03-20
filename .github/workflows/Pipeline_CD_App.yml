@@ -5,7 +5,7 @@ on:
 
 env: # variables
   RG_NAME: "RG-AKSCluster-ayz"
-  CLUSTER_NAME: "AKS-000" 
+  CLUSTER_NAME: "AKS-000-ayz" 
   REGISTRY_NAME: "acrayz"
   APP_NAME: "coolapi"
   IMAGE_VERSION: "1.0.0"
